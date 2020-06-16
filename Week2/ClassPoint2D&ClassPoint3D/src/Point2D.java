@@ -1,5 +1,4 @@
 
-
 public class Point2D {
     public float x = 0.0f;
     public float y = 0.0f;
@@ -35,8 +34,8 @@ public class Point2D {
 
     public float[] getXY() {
         float[] array = new float[2];
-        array[1] = x;
-        array[2] = y;
+        array[0] = x;
+        array[1] = y;
         return array;
     }
 

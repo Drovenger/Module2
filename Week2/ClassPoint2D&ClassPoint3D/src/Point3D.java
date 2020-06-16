@@ -26,9 +26,9 @@ public class Point3D extends Point2D {
 
     public float[] getXYZ() {
         float[] array = new float[3];
-        array[1] = x;
-        array[2] = y;
-        array[3] = z;
+        array[0] = x;
+        array[1] = y;
+        array[2] = z;
         return array;
     }
 
