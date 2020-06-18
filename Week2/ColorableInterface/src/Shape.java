@@ -26,6 +26,7 @@ public class Shape {
         this.filled = filled;
     }
 
+    public void doSomeThing(){}
     @Override
     public String toString() {
         return "A Shape with color of "

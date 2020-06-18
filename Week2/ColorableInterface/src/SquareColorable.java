@@ -10,7 +10,6 @@ public class SquareColorable {
                 ((Colorable) x).howToColor();
             }
         }
-
     }
 
     static Shape getRandomShape() {
@@ -24,6 +23,4 @@ public class SquareColorable {
                 return new Circle((double) (Math.round(Math.random() * 100)));
         }
     }
-
-
 }
