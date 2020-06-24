@@ -17,7 +17,7 @@ public class VectorDemo {
         vec.ensureCapacity(40);
 
         for (int i = 0; i < 10; i++) {
-            vec.add(0,i);
+            vec.remove(0);
         }
         System.out.println("Content of the vector after increasing the size: "+vec);
         System.out.println("Size of the vector after increase: "+vec.size());

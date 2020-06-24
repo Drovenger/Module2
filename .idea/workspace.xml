@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afbbc9dd-4e61-4272-ae5e-1e92dad0a034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2/java-cleancode-refactoring-renaming/src/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/java-cleancode-refactoring-renaming/src/test/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afbbc9dd-4e61-4272-ae5e-1e92dad0a034" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +64,7 @@
       <workItem from="1592300789969" duration="874000" />
       <workItem from="1592302070088" duration="1950000" />
       <workItem from="1592361369836" duration="786000" />
+      <workItem from="1592463818073" duration="166000" />
     </task>
     <servers />
   </component>
@@ -95,9 +92,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592302166486" />
-    <state x="342" y="140" key="new project wizard" timestamp="1592362331468">
+    <state x="342" y="140" key="new project wizard" timestamp="1592463984833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592362331468" />
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592463984833" />
   </component>
 </project>
