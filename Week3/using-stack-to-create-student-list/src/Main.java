@@ -1,9 +1,10 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-
+    List<Student> linkedStudents= new LinkedList<>();
     static List<Student> studentList = new ArrayList<>();
 
     static void display(){

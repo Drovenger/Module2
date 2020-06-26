@@ -15,8 +15,8 @@ public class BubbleSortByStep {
             System.out.print(value + "\t");
         }
         System.out.println("\nBegin sort processing...");
-        //bubbleSortByStep(list);
-        quickSort(list, 0, list.length - 1);
+        bubbleSortByStep(list);
+        //quickSort(list, 0, list.length - 1);
     }
 
     public static void bubbleSortByStep(int[] list) {
