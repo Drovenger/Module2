@@ -15,7 +15,8 @@ public class BubbleSortByStep {
             System.out.print(value + "\t");
         }
         System.out.println("\nBegin sort processing...");
-        bubbleSortByStep(list);
+        //bubbleSortByStep(list);
+        insertionSort(list);
         //quickSort(list, 0, list.length - 1);
     }
 
@@ -49,16 +50,23 @@ public class BubbleSortByStep {
     }
 
     public static void insertionSort(int[] list) {
+        int k = 0;
         for (int i = 1; i < list.length; i++) {
-            //insert list[i] into a sorted sublist list[0...i-1]
-            //so that list[0..i] is sorted
             int currentElement = list[i];
-            int k;
-            for (k = i - 1; k >= 0 && list[k] > currentElement; k--) {
-                list[k + 1] = list[k];
+            System.out.println("Take element " + currentElement);
+            int j;
+            for (j = i - 1; j >= 0 && list[j] > currentElement; j--) {
+                System.out.println("Replace element position " + list[j + 1] + " to " + list[j]);
+                list[j + 1] = list[j];
             }
-            //insert the current element into list[k+1]
-            list[k + 1] = currentElement;
+            list[j + 1] = currentElement;
+            System.out.println("Put " + list[j + 1] + " to the position " + (j + 2));
+            k++;
+            System.out.print("List after the  " + k + "' sort: ");
+            for (int value : list) {
+                System.out.print(value + "\t");
+            }
+            System.out.println("\n");
         }
     }
 
