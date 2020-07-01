@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063d7a68-91ef-4d1b-b75d-dba30caff6fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CVSReader2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week2/demo/out/production/demo/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/demo/out/production/demo/X.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Week2/demo/src/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/demo/src/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CVSReader2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CVSReader2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CVSReader2">
     <configuration name="CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CSVReader" />
       <module name="read-file-csv" />
@@ -63,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CVSReader2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CVSReader2" />
+      <module name="read-file-csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CVSReader2" />
         <item itemvalue="Application.CSVReader" />
       </list>
     </recent_temporary>
@@ -81,6 +87,7 @@
       <updated>1593569443498</updated>
       <workItem from="1593569447597" duration="704000" />
       <workItem from="1593570171506" duration="5000" />
+      <workItem from="1593570549418" duration="298000" />
     </task>
     <servers />
   </component>
