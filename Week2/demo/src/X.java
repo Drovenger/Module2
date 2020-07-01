@@ -1,13 +1,13 @@
+
 public class X {
     public static void main(String[] args) {
-        try {
-            int x = 0;
-            int y = 5 / x;
-        }catch (ArithmeticException e) {
-            System.out.println("Arithmetic");
-        }catch (Exception ae) {
-            System.out.println("Exception");
+        String x = "user@fpt.edu.vn";
+        String y = "\\w+@\\w+(\\.\\w+){1,2}";
+        if(x.matches(y)){
+            System.out.print("A");
         }
-        System.out.println("finished");
+        else{
+            System.out.print("B");
+        }
     }
 }
