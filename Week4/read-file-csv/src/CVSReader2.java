@@ -10,9 +10,11 @@ public class CVSReader2 {
 
         try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
             while ((line = br.readLine()) != null) {
-                //use comma as separator
                 String[] country = line.split(csvSplitBy);
-                System.out.println("Country [code= " + country[4] + " , name=" + country[5] + "]");
+                for (int i = 0; i < country.length; i++) {
+                    System.out.printf("'%25s' ", country[i]);
+                }
+                System.out.print("\n");
             }
         } catch (IOException e) {
             e.printStackTrace();

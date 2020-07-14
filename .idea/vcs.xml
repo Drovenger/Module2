@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week1" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Week5/deploying-Facade-Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week5/deploying-Facade-Pattern/java-facade-random" vcs="Git" />
   </component>
 </project>

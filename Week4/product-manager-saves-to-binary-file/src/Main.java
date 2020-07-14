@@ -3,9 +3,11 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
+        Scanner scanner = new Scanner(System.in);
         ProductManagement productManagement = new ProductManagement();
-        productManagement.createList();
+        ProductIO.readProduct("product.txt");
+        //productManagement.createList();
         System.out.println("MENU:");
         System.out.println("0. Print the current list");
         System.out.println("1. Add a product");
@@ -17,7 +19,6 @@ public class Main {
         System.out.println("7. Sorting by price ascending");
         System.out.println("8. Sorting by price descending");
         System.out.println("What you want to do?");
-        Scanner scanner = new Scanner(System.in);
         int choice = scanner.nextInt();
         try {
             while (choice >= 0 && choice <= 8) {
@@ -59,7 +60,7 @@ public class Main {
                         break;
 
                     default:
-                        System.out.println("Not available!");
+                        System.exit(0);
                 }
                 System.out.println();
                 System.out.println("What you want to do next?");

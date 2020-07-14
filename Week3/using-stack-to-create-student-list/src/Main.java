@@ -4,10 +4,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-    List<Student> linkedStudents= new LinkedList<>();
+    List<Student> linkedStudents = new LinkedList<>();
     static List<Student> studentList = new ArrayList<>();
 
-    static void display(){
+    static void display() {
         System.out.println(".................");
         System.out.println("Chon mot chuc nang");
         System.out.println(".................");
@@ -19,7 +19,7 @@ public class Main {
         System.out.println(".................");
     }
 
-    static boolean chooseFunction(int number){
+    static boolean chooseFunction(int number) {
         switch (number) {
             case 1:
                 list();
@@ -41,10 +41,10 @@ public class Main {
         }
     }
 
-    static void list(){
-        for (Student student: studentList) {
-            System.out.println("Danh sach sinh vien la:");
-            System.out.printf("ID:%d, Name:%s, Age:%d",student.getId(),student.getName(),student.getAge());
+    static void list() {
+        System.out.println("Danh sach sinh vien la:");
+        for (Student student : studentList) {
+            System.out.printf("ID:%d, Name:%s, Age:%d", student.getId(), student.getName(), student.getAge());
             System.out.print("\n");
         }
         System.out.println("...............");
@@ -52,13 +52,13 @@ public class Main {
         recallFunction();
     }
 
-    static void add() throws NullPointerException{
+    static void add() throws NullPointerException {
         int id;
         Student student;
-        if(studentList.size() == 0){
+        if (studentList.size() == 0) {
             id = 0;
         } else {
-            id = studentList.get(studentList.size() -1 ).getId() + 1;
+            id = studentList.get(studentList.size() - 1).getId() + 1;
         }
 
         Scanner scanner = new Scanner(System.in);
@@ -66,14 +66,14 @@ public class Main {
         String name = scanner.next();
         System.out.print("Nhap Tuoi:");
         int age = scanner.nextInt();
-        student = new Student(id,name,age);
+        student = new Student(id, name, age);
         studentList.add(student);
         System.out.print("Add thanh cong");
         display();
         recallFunction();
     }
 
-    static void recallFunction(){
+    static void recallFunction() {
         boolean nextStep = false;
         while (!nextStep) {
             Scanner scannerNext = new Scanner(System.in);
@@ -82,7 +82,7 @@ public class Main {
         }
     }
 
-    static void delete(){
+    static void delete() {
         System.out.println("Chon id de xoa:");
         Scanner scanner = new Scanner(System.in);
         int id = scanner.nextInt();
@@ -108,7 +108,7 @@ public class Main {
         recallFunction();
     }
 
-    static void edit(){
+    static void edit() {
 
     }
 

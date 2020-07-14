@@ -20,8 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="063d7a68-91ef-4d1b-b75d-dba30caff6fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/demo/out/production/demo/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/demo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/out/production/product-manager-saves-to-binary-file/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/out/production/product-manager-saves-to-binary-file/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/product.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/product.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../product-manager-saves-to-binary-file/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CVSReader2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CVSReader2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/country.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week5/deploying-Facade-Pattern/java-facade-random" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week5/deploying-Facade-Pattern/java-facade-random" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/GeoWarsType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/collision/BulletPortalHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/GeoWarsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/GeoWarsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/GeoWarsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/GeoWarsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/WeaponType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/WeaponType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/collision/PlayerCrystalHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/collision/PlayerCrystalHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/BulletComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/BulletComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/CrystalComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/CrystalComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/ExhaustParticleComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/ExhaustParticleComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/ExplosionParticleComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/ExplosionParticleComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/GraphicsUpdateComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/GraphicsUpdateComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/GridComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/GridComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/HealthComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/HealthComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/PlayerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/PlayerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/RicochetComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/RicochetComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/BouncerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/BouncerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/NewRunnerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/NewRunnerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/SeekerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/SeekerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/WandererComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/src/main/java/geowars/component/enemy/WandererComponent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +117,9 @@
       <updated>1593569443498</updated>
       <workItem from="1593569447597" duration="704000" />
       <workItem from="1593570171506" duration="5000" />
-      <workItem from="1593570549418" duration="298000" />
+      <workItem from="1593570549418" duration="534000" />
+      <workItem from="1594635660694" duration="16000" />
+      <workItem from="1594659059128" duration="1314000" />
     </task>
     <servers />
   </component>
@@ -111,21 +143,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1593570072012" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593570160705">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1594660618836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593570160705" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593570160705">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594660618836" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1594660618836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593570160705" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593570160705">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594660618836" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1594660618836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593570160705" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593570160705">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594660618836" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1594660618836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593570160705" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594660618836" />
+    <state x="342" y="140" key="new project wizard" timestamp="1593571089181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593571089181" />
   </component>
 </project>

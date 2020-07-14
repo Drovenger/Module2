@@ -20,7 +20,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afbbc9dd-4e61-4272-ae5e-1e92dad0a034" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week5/deploying-Facade-Pattern/java-facade-random/src/com/codegym/RandomListFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/demo/out/production/demo/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week2/demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week2/demo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/out/production/product-manager-saves-to-binary-file/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/out/production/product-manager-saves-to-binary-file/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/product.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/product.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/product-manager-saves-to-binary-file/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/read-file-csv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/read-file-csv/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week5/deploying-Facade-Pattern/java-facade-random/src/com/codegym/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week5/deploying-Facade-Pattern/java-facade-random/src/com/codegym/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/GeoWarsType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/collision/BulletPortalHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/GeoWarsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/GeoWarsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/GeoWarsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/GeoWarsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/WeaponType.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/WeaponType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/collision/PlayerCrystalHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/collision/PlayerCrystalHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/BulletComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/BulletComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/CrystalComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/CrystalComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/ExhaustParticleComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/ExhaustParticleComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/ExplosionParticleComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/ExplosionParticleComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/GraphicsUpdateComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/GraphicsUpdateComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/GridComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/GridComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/HealthComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/HealthComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/PlayerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/PlayerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/RicochetComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/RicochetComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/BouncerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/BouncerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/NewRunnerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/NewRunnerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/SeekerComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/SeekerComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/WandererComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/casestudy2/src/main/java/geowars/component/enemy/WandererComponent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +104,9 @@
       <workItem from="1593402534762" duration="588000" />
       <workItem from="1593403536929" duration="40000" />
       <workItem from="1593405864283" duration="50000" />
+      <workItem from="1593570262735" duration="280000" />
+      <workItem from="1593586926796" duration="147000" />
+      <workItem from="1594444263059" duration="118000" />
     </task>
     <servers />
   </component>

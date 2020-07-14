@@ -1,4 +1,9 @@
 package geowars.component;
 
-public class HealthComponent {
+import com.almasb.fxgl.entity.components.IntegerComponent;
+
+public class HealthComponent extends IntegerComponent {
+    public HealthComponent(int hp) {
+        super(hp);
+    }
 }
